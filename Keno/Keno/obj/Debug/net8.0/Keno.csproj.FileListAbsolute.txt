@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Keno\Keno\obj\Debug\net8.0\Keno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Keno\Keno\obj\Debug\net8.0\Keno.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Keno\Keno\obj\Debug\net8.0\Keno.AssemblyInfo.cs
+C:\Users\User\source\repos\Keno\Keno\obj\Debug\net8.0\Keno.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Keno\Keno\bin\Debug\net8.0\Keno.exe
+C:\Users\User\source\repos\Keno\Keno\bin\Debug\net8.0\Keno.deps.json
+C:\Users\User\source\repos\Keno\Keno\bin\Debug\net8.0\Keno.runtimeconfig.json
+C:\Users\User\source\repos\Keno\Keno\bin\Debug\net8.0\Keno.dll
+C:\Users\User\source\repos\Keno\Keno\bin\Debug\net8.0\Keno.pdb
+C:\Users\User\source\repos\Keno\Keno\obj\Debug\net8.0\Keno.dll
+C:\Users\User\source\repos\Keno\Keno\obj\Debug\net8.0\refint\Keno.dll
+C:\Users\User\source\repos\Keno\Keno\obj\Debug\net8.0\Keno.pdb
+C:\Users\User\source\repos\Keno\Keno\obj\Debug\net8.0\Keno.genruntimeconfig.cache
+C:\Users\User\source\repos\Keno\Keno\obj\Debug\net8.0\ref\Keno.dll
